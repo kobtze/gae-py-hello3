@@ -1,2 +1,2 @@
-"# fs-hello-world" 
-Hello World app using Python3 & Google App Engine
+# Hello World! 
+'Hello World' app done using Python3 & Google App Engine
